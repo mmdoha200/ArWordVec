@@ -44,6 +44,7 @@ import gensim
 file_path = 'SG-300-3-400.model'
 word_embed = gensim.models.Word2Vec.load(file_path)
 ```
+> For more information about how we preprocess the Arabic tweets before building the models, please check `preprocess_tweets.py` script.
 
 ## Acknowledgements
 We express our thanks to the administration of the High Performance Computing Center (HPCC) at King Abdulaziz University, Jeddah, Saudi Arabia, for their support and the access to the Aziz Supercomputer that helped us in performing our experiments which require both huge computing capabilities and storage space.
