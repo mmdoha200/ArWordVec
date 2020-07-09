@@ -54,11 +54,10 @@ M.M. Fouad, A. Mahany, N. Aljohani, R.A. Abbasi, and S.-U. Hassan, “ArWordVec:
 
 
 [M1]: https://rebrand.ly/wsccyws
-[M1-1]: https://drive.google.com/file/d/1P0x5p7eM1tVYve0bpPww3wAvJeY71JEt/view?usp=sharing
-[M2]: https://drive.google.com/file/d/1BZC2T4eCYc2SNCpSBhqhHkYKsFHh96x5/view?usp=sharing
-[M3]: https://drive.google.com/file/d/1HdlfqL5dgTgrbHTJsHzphSQhUF5jCUG8/view?usp=sharing
-[M4]: https://drive.google.com/file/d/1AqW9gui0QL1d97qYHD2uiP-efzwA8GRn/view?usp=sharing
-[M5]: https://drive.google.com/file/d/1TzlUNAIiNeOQ4Wsxy_YYFyISsxvZH7g0/view?usp=sharing
-[M6]: https://drive.google.com/file/d/1WEYEpBKEUhPkncC6YDr72409NEFEaggU/view?usp=sharing
-[M7]: https://drive.google.com/file/d/1ByX9vgXkv9TskQDlmPR2HSgwVOmzZZPF/view?usp=sharing
-[M8]: https://drive.google.com/file/d/1nrsXJ_dPANAadocETQxPrF7eDoGj--E0/view?usp=sharing
+[M2]: https://rebrand.ly/4cfzcao
+[M3]: https://rebrand.ly/7qomutb
+[M4]: https://rebrand.ly/xwvpirk
+[M5]: https://rebrand.ly/jvfyexo
+[M6]: https://rebrand.ly/yyp4d0x
+[M7]: https://rebrand.ly/kguzz84
+[M8]: https://rebrand.ly/g05sxcy
