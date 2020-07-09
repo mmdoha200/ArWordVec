@@ -53,11 +53,11 @@ We express our thanks to the administration of the High Performance Computing Ce
 M.M. Fouad, A. Mahany, N. Aljohani, R.A. Abbasi, and S.-U. Hassan, “ArWordVec: Efficient word embedding models for arabic tweets,” **Soft Computing**, vol. 24, no. 11, pp. 8061–8068, 2020. https://doi.org/10.1007/s00500-019-04153-6
 
 
-[M1]: https://www.google.com
-[M2]: https://www.google.com
-[M3]: https://www.google.com
-[M4]: https://www.google.com
-[M5]: https://www.google.com
-[M6]: https://www.google.com
-[M7]: https://www.google.com
-[M8]: https://www.google.com
+[M1]: https://drive.google.com/file/d/1P0x5p7eM1tVYve0bpPww3wAvJeY71JEt/view?usp=sharing
+[M2]: https://drive.google.com/file/d/1BZC2T4eCYc2SNCpSBhqhHkYKsFHh96x5/view?usp=sharing
+[M3]: https://drive.google.com/file/d/1HdlfqL5dgTgrbHTJsHzphSQhUF5jCUG8/view?usp=sharing
+[M4]: https://drive.google.com/file/d/1AqW9gui0QL1d97qYHD2uiP-efzwA8GRn/view?usp=sharing
+[M5]: https://drive.google.com/file/d/1TzlUNAIiNeOQ4Wsxy_YYFyISsxvZH7g0/view?usp=sharing
+[M6]: https://drive.google.com/file/d/1WEYEpBKEUhPkncC6YDr72409NEFEaggU/view?usp=sharing
+[M7]: https://drive.google.com/file/d/1ByX9vgXkv9TskQDlmPR2HSgwVOmzZZPF/view?usp=sharing
+[M8]: https://drive.google.com/file/d/1nrsXJ_dPANAadocETQxPrF7eDoGj--E0/view?usp=sharing
