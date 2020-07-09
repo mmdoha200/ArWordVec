@@ -1,6 +1,6 @@
 # ArWordVec: efficient word embedding models for Arabic tweets
 
-ArWordVec is a collection of pre-trained word embedding model built from huge repository of Arabic tweets in different topics. The aim of these models is to support the community in their Arabic NLP-based research. In order to build an efficient word embedding model on Twitter Arabic data, we decided to collect millions of tweets frommultiple domains and hashtags to boost theword embedding model with the diverse usage of the words within the different topics. We collected about 55 Million tweets within different topics covering the educational domain, health care, politics, social affairs, etc.
+ArWordVec is a collection of pre-trained word embedding model built from huge repository of Arabic tweets in different topics. The aim of these models is to support the community in their Arabic NLP-based research. In order to build an efficient word embedding model on Twitter Arabic data, we decided to collect millions of tweets from multiple domains and hashtags to boost theword embedding model with the diverse usage of the words within the different topics. We collected about 55 Million tweets within different topics covering the educational domain, health care, politics, social affairs, etc.
 
 We have investigated many techniques for building word embedding models with the different parameters, which are **word2vec**, proposed by Google in 2013, that supports the **continuous bag-of-words (CBOW)** and **skip-gram (SG)** approaches, and **GloVe** toolkit, proposed by Stanford NLP Group in 2014. Several models have been generated and named as **‘model-d-w-m’**. For example, **CBOW-500-3-400** is the model built with _CBOW_ approach that has _vector size of 500_, _window size equal to 3_, and the _minimum word count is set to 400_.
 
@@ -53,7 +53,8 @@ We express our thanks to the administration of the High Performance Computing Ce
 M.M. Fouad, A. Mahany, N. Aljohani, R.A. Abbasi, and S.-U. Hassan, “ArWordVec: Efficient word embedding models for arabic tweets,” **Soft Computing**, vol. 24, no. 11, pp. 8061–8068, 2020. https://doi.org/10.1007/s00500-019-04153-6
 
 
-[M1]: https://drive.google.com/file/d/1P0x5p7eM1tVYve0bpPww3wAvJeY71JEt/view?usp=sharing
+[M1]: https://rebrand.ly/wsccyws
+[M1-1]: https://drive.google.com/file/d/1P0x5p7eM1tVYve0bpPww3wAvJeY71JEt/view?usp=sharing
 [M2]: https://drive.google.com/file/d/1BZC2T4eCYc2SNCpSBhqhHkYKsFHh96x5/view?usp=sharing
 [M3]: https://drive.google.com/file/d/1HdlfqL5dgTgrbHTJsHzphSQhUF5jCUG8/view?usp=sharing
 [M4]: https://drive.google.com/file/d/1AqW9gui0QL1d97qYHD2uiP-efzwA8GRn/view?usp=sharing
